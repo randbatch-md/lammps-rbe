@@ -1,0 +1,6 @@
+
+processors * * * grid numa
+units		real
+atom_style	full
+ERROR: Unrecognized atom style 'full' is part of the MOLECULE package which is not enabled in this LAMMPS binary. (../atom.cpp:708)
+Last command: atom_style	full

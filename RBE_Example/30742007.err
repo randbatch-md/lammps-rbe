@@ -1,0 +1,2 @@
+srun: error: node118: tasks 0-3: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=30742007.0

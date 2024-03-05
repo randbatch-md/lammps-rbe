@@ -1,0 +1,6 @@
+LAMMPS (23 Jun 2022 - Update 4)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (../comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+# SPC/E water box bulk
+
+log RBE_BAOBAO.log

@@ -1,0 +1,5 @@
+LAMMPS (23 Jun 2022 - Update 4)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (../comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR: Unrecognized atom style 'full' is part of the MOLECULE package which is not enabled in this LAMMPS binary. (../atom.cpp:708)
+Last command: atom_style	full
